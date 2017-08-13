@@ -98,9 +98,9 @@ $(document).ready(function() {
 
 	$('#experience').click(function () {
 		if (experience_flag) {
-			dropDown($('#experience .resume-content'), 800);
+			dropDown($('#experience .resume-content'), 1000);
 		} else {
-			raiseUp($('#experience .resume-content'), 800);
+			raiseUp($('#experience .resume-content'), 1000);
 		}
 		experience_flag = !experience_flag;
 	});
