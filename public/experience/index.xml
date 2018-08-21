@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on Joseph Thweatt</title>
+    <link>http://jathweatt.com:1313/experience/</link>
+    <description>Recent content in Experience on Joseph Thweatt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Aug 2018 13:11:55 -0700</lastBuildDate>
+    
+	<atom:link href="http://jathweatt.com:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ViaSat</title>
+      <link>http://jathweatt.com:1313/experience/viasat/</link>
+      <pubDate>Sun, 20 May 2018 00:22:29 -0700</pubDate>
+      
+      <guid>http://jathweatt.com:1313/experience/viasat/</guid>
+      <description>Worked on projects important to the Commercial Mobility Department.
+The work I did while interning at ViaSat was not only a great learning experience, but a critical contribution in my team&amp;rsquo;s latest software relase. Without going too far into details, one of the major projects assigned to me and the other interns involved persisting user account infomation when switching between networks in-flight. The inclusion of this feature in the release required the input of several engineers throughout our department, but ultimately, the writing and testing of the feature in code fell to the interns.</description>
+    </item>
+    
+    <item>
+      <title>Connexta</title>
+      <link>http://jathweatt.com:1313/experience/connexta/</link>
+      <pubDate>Mon, 15 May 2017 11:13:32 -0400</pubDate>
+      
+      <guid>http://jathweatt.com:1313/experience/connexta/</guid>
+      <description>Worked in a team to create features, fixes, and improvements on the Distributed Data Framework.
+While at Connexta, I was working with an open source project called the Distributed Data Framework (DDF). This is a modular integration framework used to share data between various sources and organizations. I made a significant number of contributions to the master branch, most of which is still in production today.
+Connexta was also my first exposure to professional software development and the Agile Process.</description>
+    </item>
+    
+    <item>
+      <title>Computer Science Tutor</title>
+      <link>http://jathweatt.com:1313/experience/cs_tutoring/</link>
+      <pubDate>Sun, 01 Jan 2017 11:13:32 -0400</pubDate>
+      
+      <guid>http://jathweatt.com:1313/experience/cs_tutoring/</guid>
+      <description>Assisted undergraduate students in understanding core computer science concepts.
+Helped students better understand the coursework for 100-300 level classes. Key concepts I helped mentor included fundamental programming skills, OOP, pointers, assembly, and developer tools such as the debugger and git.</description>
+    </item>
+    
+  </channel>
+</rss>
